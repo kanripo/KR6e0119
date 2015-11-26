@@ -1,15 +1,17 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:23.214050
-#+TITLE: 華嚴經談玄抉擇
-#+PROPERTY: CBETA_ID X08n0235
-#+PROPERTY: ID KR6e0119
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 08, No. 235
-#+PROPERTY: VOL 08
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴經談玄抉擇 / CBETA
+#+DATE: 2015-11-26 14:19:26.574987
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0119_X_000-0001a>
-[[file:KR6e0119_002.txt::0015c15][錄摘文解¶]]
-[[file:KR6e0119_003.txt::0030c20][錄摘文解¶]]
-[[file:KR6e0119_004.txt::0051c11][錄摘文解¶]]
-[[file:KR6e0119_005.txt::0071b11][錄摘文解¶]]
+* 目次
+* [[file:KR6e0119_002.txt::0015c15][錄摘文解¶]]
+* [[file:KR6e0119_003.txt::0030c20][錄摘文解¶]]
+* [[file:KR6e0119_004.txt::0051c11][錄摘文解¶]]
+* [[file:KR6e0119_005.txt::0071b11][錄摘文解¶]]
+* 卷
+** [[file:KR6e0119_002.txt][華嚴經談玄抉擇 2]]
+** [[file:KR6e0119_003.txt][華嚴經談玄抉擇 3]]
+** [[file:KR6e0119_004.txt][華嚴經談玄抉擇 4]]
+** [[file:KR6e0119_005.txt][華嚴經談玄抉擇 5]]
+** [[file:KR6e0119_006.txt][華嚴經談玄抉擇 6]]
